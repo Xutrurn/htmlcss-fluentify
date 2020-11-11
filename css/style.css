@@ -26,3 +26,62 @@ ul{
   list-style: none;
 }
 /* ! GENERAL RULES end */
+
+/* ! HEADER START */
+header{
+  background-image: url(../img/background-header.png);
+  background-repeat: no-repeat;
+  background-position: 110% 100%;
+  background-size: 65%;
+  background-color: #0c325a;
+  color: white;
+  /* delete this below */
+  height: 550px;
+}
+
+/* ! CONTAINER START */
+.container{
+  height: 100%;
+  width: 85%;
+  margin: auto;
+  /* delete this below */
+  background-color: rgba(204, 188, 172, 0.5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ! FOOTER START */
