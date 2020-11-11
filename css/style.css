@@ -116,7 +116,28 @@ header{
   /* background-color: rgba(50, 224, 162, 0.3); */
 }
 
+/* ! JUMBOTRON START */
+.jumbotron{
+  height: 470px;
+  position: relative;
+  /* delete this below */
+  width: 100%;
+  /* background-color: rgba(50, 224, 162, 0.3); */
+}
 
+.jumbo-text{
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 50%;
+}
+
+.jumbo-text h1{
+  font-size: 44px;
+  margin-bottom: 40px;
+  text-transform: capitalize;
+}
 
 
 
