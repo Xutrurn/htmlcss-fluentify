@@ -153,6 +153,7 @@ main{
   line-height: 90px;
   color: black;
   font-size: 20px;
+  transform: translateY(25%);
   /* delete this below */
   /* background-color: rgba(172, 232, 92, 0.5); */
 }
@@ -161,6 +162,7 @@ main{
   height: 90px;
   line-height: 90px;
   color: #808080;
+  transform: translateY(-25%);
   /* delete this below */
   /* background-color: rgba(172, 50, 92, 0.5); */
 }
