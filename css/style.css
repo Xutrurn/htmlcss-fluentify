@@ -142,9 +142,9 @@ header{
 
 /* ! MAIN START */
 main{
-  /* delete this below */
   background-color: #d3d3d3;
-  height: 180px;
+  /* delete this below */
+  /* height: 180px; */
   text-align: center;
 }
 
@@ -165,6 +165,12 @@ main{
   transform: translateY(-25%);
   /* delete this below */
   /* background-color: rgba(172, 50, 92, 0.5); */
+}
+
+.center-three-col{
+  height: 900px;
+  /* delete this below */
+  background-color: rgb(201, 176, 165);
 }
 
 
