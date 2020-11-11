@@ -140,6 +140,30 @@ header{
   /* text-transform: capitalize; */
 }
 
+/* ! MAIN START */
+main{
+  /* delete this below */
+  background-color: #d3d3d3;
+  height: 180px;
+  text-align: center;
+}
+
+.language{
+  height: 90px;
+  line-height: 90px;
+  color: black;
+  font-size: 20px;
+  /* delete this below */
+  /* background-color: rgba(172, 232, 92, 0.5); */
+}
+
+.plane{
+  height: 90px;
+  line-height: 90px;
+  color: #808080;
+  /* delete this below */
+  /* background-color: rgba(172, 50, 92, 0.5); */
+}
 
 
 
