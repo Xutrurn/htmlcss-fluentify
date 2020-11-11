@@ -45,7 +45,7 @@ header{
   width: 85%;
   margin: auto;
   /* delete this below */
-  background-color: rgba(204, 188, 172, 0.5);
+  /* background-color: rgba(204, 188, 172, 0.5); */
 }
 
 /* ! HEADER-NAV START */
@@ -53,7 +53,19 @@ header{
   line-height: 80px;
   height: 80px;
   /* delete this below */
+  /* background-color: rgba(140, 224, 162, 0.5); */
+}
 
+/* ! LOGO START */
+.header-logo{
+  height: 100%;
+  /* delete this below */
+  /* width: 20%; */
+  /* background-color: red; */
+}
+
+.header-logo img{
+  margin-top: 15px;
 }
 
 .header-nav a{
@@ -63,8 +75,24 @@ header{
   font-size: 12px;
 }
 
+.header-nav li{
+  display: inline-block;
+  padding: 0 10 px;
+}
 
+/* ! HEADER-NAV CENTER */
+.header-nav-center{
+  height: 100%;
+  margin-left: 50px;
+  /* delete this below */
+  /* background-color: rgba(50, 224, 162, 0.3); */
+  }
 
+.header-nav-right{
+  height: 100%;
+  /* delete this below */
+  /* background-color: rgba(50, 224, 162, 0.3); */
+}
 
 
 
