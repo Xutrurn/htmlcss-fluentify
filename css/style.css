@@ -48,6 +48,21 @@ header{
   background-color: rgba(204, 188, 172, 0.5);
 }
 
+/* ! HEADER-NAV START */
+.header-nav{
+  line-height: 80px;
+  height: 80px;
+  /* delete this below */
+
+}
+
+.header-nav a{
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
 
 
 
