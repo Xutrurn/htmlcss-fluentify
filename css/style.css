@@ -27,6 +27,27 @@ ul{
 }
 /* ! GENERAL RULES end */
 
+/* ! BTN CLASS START */
+.btn{
+  text-transform: uppercase;
+  border-radius: 5px;
+  padding: 5px 10px;
+  text-decoration: none;
+  color: white;
+}
+
+.btn-green{
+  background-color: #7cbb02;
+}
+
+.btn-blue{
+  border: 0.5px solid white;
+}
+
+.btn-large{
+  padding: 20px;
+}
+
 /* ! HEADER START */
 header{
   background-image: url(../img/background-header.png);
@@ -77,17 +98,18 @@ header{
 
 .header-nav li{
   display: inline-block;
-  padding: 0 10 px;
+  padding: 0 10px;
 }
 
-/* ! HEADER-NAV CENTER */
+/* ! HEADER-NAV CENTER START */
 .header-nav-center{
   height: 100%;
   margin-left: 50px;
   /* delete this below */
   /* background-color: rgba(50, 224, 162, 0.3); */
-  }
+}
 
+/* ! HEADER-NAV-RIGHT START */
 .header-nav-right{
   height: 100%;
   /* delete this below */
