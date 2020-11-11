@@ -167,10 +167,32 @@ main{
   /* background-color: rgba(172, 50, 92, 0.5); */
 }
 
+/* ! CENTER-THREE-COL */
 .center-three-col{
-  height: 900px;
+  height: 450px;
   /* delete this below */
   background-color: rgb(201, 176, 165);
+}
+
+.center-three-col-left{
+  height: 100%;
+  width: calc(100% / 3);
+  /* delete this below */
+  background-color: rgba(78, 161, 201, 0.5);
+}
+
+.center-three-col-center{
+  height: 100%;
+  width: calc(100% / 3);
+  /* delete this below */
+  background-color: rgba(50, 50, 201, 0.5);
+}
+
+.center-three-col-right{
+  height: 100%;
+  width: calc(100% / 3);
+  /* delete this below */
+  background-color: rgba(78, 161, 50, 0.5);
 }
 
 
